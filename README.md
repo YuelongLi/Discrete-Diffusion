@@ -1,0 +1,1 @@
+This is a concrete realization of concepts of discrete diffusion in the original paper _Score-based continuous-time discrete diffusion models_ by Sun et al, applied to solving discrete Gibbs free energy distribution.
